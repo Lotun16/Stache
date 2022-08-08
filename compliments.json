@@ -5,6 +5,7 @@
     ],
     "morning": [
       "Good morning, beautiful!",
+      "Another day another Eve",
       "Who needs coffee when you have your smile?",
       "Go get 'em baby!"
     ],
@@ -16,7 +17,14 @@
     "evening": [
       "You made someone smile today, I know it.",
       "You are making a difference.",
-      "The day was better for your efforts."
+      "The day was better for your efforts.",
+      "The day's almost over. Don't forget to take a break",
+      "Great job today Erika. Your team couldn't have done it without you!",
+      "Make sure to eat",
+      "Jeez im tired. Bed's right there baby",
+      "zzZzZZZzzzzzzZZZZZzZzZzz...",
+      "Theres some kid in Union thinking about how much he loves you right now",
+      "One Piece is the greatest piece of fiction ever written"
     ],
     "....-01-01": [
         "Happy new year!"
@@ -29,7 +37,6 @@
         "Happy Birthday Kid - Nicki",
         "Happy Birthday to my biggest fan, sorry I couldnt make it -Burna Boy",
         "Lotun is always right and he's older than you but congrats on 24",
-        "Call your boyfriend",
-        "More stuff coming soon"
+        "Call your boyfriend"
     ]
   }
